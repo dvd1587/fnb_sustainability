@@ -1,6 +1,6 @@
 # F&B Sustainability Dashboard
 
-### [Tableau Dashboard](https://public.tableau.com/app/profile/prateek.dwivedi1043/viz/FBSustainabilityDashboard/Home)
+### [Tableau Demonstration](https://public.tableau.com/app/profile/prateek.dwivedi1043/viz/FBSustainabilityDashboard/Home)
 
 <h2>Description</h2>
 An interactive executive dashboard in Tableau tracking sustainability KPIs for a fictional Food & Beverage company called F&B. It features 7 dashboards, 20+ visualizations, and clickable navigation drawing from sustainability . The idea was to create an ESG dashboard which tracks the company's progress across key environmental and social metrics. The user which can be the Head of the Sustainability or any sustainability executive of the company can click any category in the dashboard to explore detailed KPIs and trends, and use this as their single source and go-to platform for all sustainability questions from leadership.
