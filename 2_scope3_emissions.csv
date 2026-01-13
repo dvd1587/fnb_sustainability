@@ -1,0 +1,36 @@
+Year,Category,Subcategory,Emissions_MT_CO2e,Pct_of_Total_Scope3,Target_2030_Reduction_Pct
+2020,Purchased Goods,Agricultural Ingredients,8500000,42.5,30
+2020,Purchased Goods,Packaging Materials,3200000,16.0,25
+2020,Purchased Goods,Other Materials,1800000,9.0,20
+2020,Transportation,Upstream Transportation,2100000,10.5,35
+2020,Transportation,Downstream Distribution,1500000,7.5,35
+2020,Use of Sold Products,Consumer Use (Refrigeration),1200000,6.0,15
+2020,End of Life,Packaging Disposal,1700000,8.5,40
+2021,Purchased Goods,Agricultural Ingredients,8200000,42.0,30
+2021,Purchased Goods,Packaging Materials,3050000,15.6,25
+2021,Purchased Goods,Other Materials,1750000,9.0,20
+2021,Transportation,Upstream Transportation,2000000,10.3,35
+2021,Transportation,Downstream Distribution,1450000,7.4,35
+2021,Use of Sold Products,Consumer Use (Refrigeration),1180000,6.1,15
+2021,End of Life,Packaging Disposal,1620000,8.3,40
+2022,Purchased Goods,Agricultural Ingredients,7850000,41.5,30
+2022,Purchased Goods,Packaging Materials,2900000,15.3,25
+2022,Purchased Goods,Other Materials,1680000,8.9,20
+2022,Transportation,Upstream Transportation,1920000,10.2,35
+2022,Transportation,Downstream Distribution,1380000,7.3,35
+2022,Use of Sold Products,Consumer Use (Refrigeration),1150000,6.1,15
+2022,End of Life,Packaging Disposal,1520000,8.0,40
+2023,Purchased Goods,Agricultural Ingredients,7500000,41.2,30
+2023,Purchased Goods,Packaging Materials,2750000,15.1,25
+2023,Purchased Goods,Other Materials,1600000,8.8,20
+2023,Transportation,Upstream Transportation,1850000,10.2,35
+2023,Transportation,Downstream Distribution,1320000,7.3,35
+2023,Use of Sold Products,Consumer Use (Refrigeration),1120000,6.2,15
+2023,End of Life,Packaging Disposal,1420000,7.8,40
+2024,Purchased Goods,Agricultural Ingredients,7150000,40.8,30
+2024,Purchased Goods,Packaging Materials,2620000,14.9,25
+2024,Purchased Goods,Other Materials,1520000,8.7,20
+2024,Transportation,Upstream Transportation,1780000,10.2,35
+2024,Transportation,Downstream Distribution,1260000,7.2,35
+2024,Use of Sold Products,Consumer Use (Refrigeration),1090000,6.2,15
+2024,End of Life,Packaging Disposal,1320000,7.5,40
