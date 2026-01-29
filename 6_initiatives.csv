@@ -1,0 +1,25 @@
+Initiative_ID,Category,Initiative_Name,Type,Start_Year,End_Year,Status,Investment_USD,Annual_Savings_USD,Emissions_Reduction_MT,Water_Reduction_ML,Energy_Reduction_MWh,Waste_Reduction_Tonnes,Impact_Category,Priority
+INI001,Climate,LED Lighting Upgrade,Energy Efficiency,2020,2022,Completed,2500000,850000,12000,0,45000,0,High,1
+INI002,Climate,Solar Panel Installation,Renewable Energy,2021,2024,In Progress,15000000,3200000,85000,0,180000,0,Very High,1
+INI003,Climate,Fleet Electrification,Transportation,2022,2026,In Progress,8000000,1500000,35000,0,0,0,High,2
+INI004,Climate,Process Heat Recovery,Energy Efficiency,2020,2021,Completed,1800000,620000,8500,0,32000,0,Medium,3
+INI005,Climate,Wind Power PPA,Renewable Energy,2023,2028,In Progress,0,2800000,120000,0,250000,0,Very High,1
+INI006,Climate,Biogas from Waste,Renewable Energy,2022,2024,Completed,3500000,450000,15000,0,28000,8500,High,2
+INI007,Water,Closed-Loop Cooling,Water Efficiency,2020,2022,Completed,4200000,380000,0,25000,0,0,High,1
+INI008,Water,Rainwater Harvesting,Water Recovery,2021,2023,Completed,1500000,120000,0,8500,0,0,Medium,2
+INI009,Water,Wastewater Recycling,Water Efficiency,2022,2024,In Progress,6800000,520000,0,42000,0,0,Very High,1
+INI010,Water,Smart Irrigation,Water Efficiency,2023,2025,In Progress,800000,95000,0,3200,0,0,Low,3
+INI011,Water,Water Stress Mitigation,Community,2021,2026,In Progress,2500000,0,0,15000,0,0,High,2
+INI012,Packaging,rPET Integration,Circular Economy,2020,2024,In Progress,12000000,850000,25000,0,0,0,Very High,1
+INI013,Packaging,Lightweighting Program,Material Reduction,2021,2023,Completed,3200000,1200000,8500,0,0,0,High,2
+INI014,Packaging,Refill Stations Pilot,Reuse,2023,2026,In Progress,5500000,0,4200,5500,0,0,Medium,2
+INI015,Packaging,Collection Infrastructure,End of Life,2022,2027,In Progress,8500000,0,0,0,0,0,High,1
+INI016,Waste,Zero Waste Program,Waste Reduction,2020,2025,In Progress,2200000,480000,2500,0,0,35000,High,1
+INI017,Waste,Composting Facilities,Organic Waste,2021,2023,Completed,1800000,220000,3200,0,0,28000,Medium,2
+INI018,Waste,Supplier Packaging Reduction,Supply Chain,2022,2025,In Progress,500000,350000,0,0,0,15000,Medium,3
+INI019,Energy,Building Management Systems,Energy Efficiency,2021,2023,Completed,3800000,920000,18000,0,72000,0,High,2
+INI020,Energy,Compressed Air Optimization,Energy Efficiency,2020,2021,Completed,650000,185000,4200,0,15000,0,Low,4
+INI021,Energy,Cogeneration Plant,Energy Efficiency,2023,2026,In Progress,22000000,4500000,95000,0,320000,0,Very High,1
+INI022,Sourcing,Supplier Sustainability Program,Supply Chain,2021,2026,In Progress,1500000,0,45000,12000,0,8500,High,1
+INI023,Sourcing,Certified Palm Oil Transition,Certification,2019,2024,Completed,800000,0,8500,0,0,0,Medium,2
+INI024,Sourcing,Regenerative Agriculture Pilot,Agriculture,2023,2028,In Progress,3500000,0,32000,18000,0,0,High,1

@@ -1,0 +1,51 @@
+Year,Source,Scope,Category,Subcategory,Emissions_MT_CO2e,Prev_Year_Emissions,Percentage_of_Total
+2020,Upstream,Scope 3,Purchased Goods,Raw Materials,8500000,9000000,42.5
+2020,Upstream,Scope 3,Purchased Goods,Packaging Materials,2200000,2400000,11.0
+2020,Upstream,Scope 3,Purchased Goods,Services,1300000,1400000,6.5
+2020,Upstream,Scope 3,Transportation,Inbound Logistics,1800000,2000000,9.0
+2020,Upstream,Scope 3,Transportation,Business Travel,400000,450000,2.0
+2020,Downstream,Scope 3,Transportation,Outbound Logistics,1600000,1750000,8.0
+2020,Downstream,Scope 3,Use of Sold Products,Consumer Use,1200000,1300000,6.0
+2020,Downstream,Scope 3,End of Life,Waste Treatment,1000000,1100000,5.0
+2020,Downstream,Scope 3,End of Life,Recycling,600000,700000,3.0
+2020,Other,Scope 3,Investments,Financial Investments,400000,450000,2.0
+2021,Upstream,Scope 3,Purchased Goods,Raw Materials,8200000,8500000,42.8
+2021,Upstream,Scope 3,Purchased Goods,Packaging Materials,2100000,2200000,11.0
+2021,Upstream,Scope 3,Purchased Goods,Services,1250000,1300000,6.5
+2021,Upstream,Scope 3,Transportation,Inbound Logistics,1700000,1800000,8.9
+2021,Upstream,Scope 3,Transportation,Business Travel,350000,400000,1.8
+2021,Downstream,Scope 3,Transportation,Outbound Logistics,1500000,1600000,7.8
+2021,Downstream,Scope 3,Use of Sold Products,Consumer Use,1150000,1200000,6.0
+2021,Downstream,Scope 3,End of Life,Waste Treatment,950000,1000000,5.0
+2021,Downstream,Scope 3,End of Life,Recycling,550000,600000,2.9
+2021,Other,Scope 3,Investments,Financial Investments,380000,400000,2.0
+2022,Upstream,Scope 3,Purchased Goods,Raw Materials,7800000,8200000,43.0
+2022,Upstream,Scope 3,Purchased Goods,Packaging Materials,1950000,2100000,10.7
+2022,Upstream,Scope 3,Purchased Goods,Services,1180000,1250000,6.5
+2022,Upstream,Scope 3,Transportation,Inbound Logistics,1580000,1700000,8.7
+2022,Upstream,Scope 3,Transportation,Business Travel,300000,350000,1.7
+2022,Downstream,Scope 3,Transportation,Outbound Logistics,1400000,1500000,7.7
+2022,Downstream,Scope 3,Use of Sold Products,Consumer Use,1100000,1150000,6.1
+2022,Downstream,Scope 3,End of Life,Waste Treatment,880000,950000,4.8
+2022,Downstream,Scope 3,End of Life,Recycling,500000,550000,2.8
+2022,Other,Scope 3,Investments,Financial Investments,350000,380000,1.9
+2023,Upstream,Scope 3,Purchased Goods,Raw Materials,7400000,7800000,43.2
+2023,Upstream,Scope 3,Purchased Goods,Packaging Materials,1800000,1950000,10.5
+2023,Upstream,Scope 3,Purchased Goods,Services,1100000,1180000,6.4
+2023,Upstream,Scope 3,Transportation,Inbound Logistics,1450000,1580000,8.5
+2023,Upstream,Scope 3,Transportation,Business Travel,280000,300000,1.6
+2023,Downstream,Scope 3,Transportation,Outbound Logistics,1300000,1400000,7.6
+2023,Downstream,Scope 3,Use of Sold Products,Consumer Use,1050000,1100000,6.1
+2023,Downstream,Scope 3,End of Life,Waste Treatment,820000,880000,4.8
+2023,Downstream,Scope 3,End of Life,Recycling,450000,500000,2.6
+2023,Other,Scope 3,Investments,Financial Investments,320000,350000,1.9
+2024,Upstream,Scope 3,Purchased Goods,Raw Materials,7000000,7400000,43.5
+2024,Upstream,Scope 3,Purchased Goods,Packaging Materials,1650000,1800000,10.3
+2024,Upstream,Scope 3,Purchased Goods,Services,1020000,1100000,6.3
+2024,Upstream,Scope 3,Transportation,Inbound Logistics,1320000,1450000,8.2
+2024,Upstream,Scope 3,Transportation,Business Travel,260000,280000,1.6
+2024,Downstream,Scope 3,Transportation,Outbound Logistics,1200000,1300000,7.5
+2024,Downstream,Scope 3,Use of Sold Products,Consumer Use,1000000,1050000,6.2
+2024,Downstream,Scope 3,End of Life,Waste Treatment,750000,820000,4.7
+2024,Downstream,Scope 3,End of Life,Recycling,400000,450000,2.5
+2024,Other,Scope 3,Investments,Financial Investments,300000,320000,1.9

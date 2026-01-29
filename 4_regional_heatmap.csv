@@ -1,0 +1,81 @@
+Region,Category,Year,Performance_Score,Status,Value,Unit,Target,vs_Target_Pct,Rank
+North America,Climate,2020,72,On Track,2.1,MT CO2e/facility,2.5,-16.0,2
+North America,Climate,2021,75,On Track,1.9,MT CO2e/facility,2.3,-17.4,2
+North America,Climate,2022,78,On Track,1.7,MT CO2e/facility,2.1,-19.0,2
+North America,Climate,2023,82,On Track,1.5,MT CO2e/facility,1.9,-21.1,1
+North America,Climate,2024,85,On Track,1.3,MT CO2e/facility,1.7,-23.5,1
+North America,Water,2020,68,At Risk,2.4,L/L product,2.2,9.1,3
+North America,Water,2021,72,On Track,2.2,L/L product,2.1,4.8,3
+North America,Water,2022,76,On Track,2.0,L/L product,2.0,0.0,2
+North America,Water,2023,80,On Track,1.9,L/L product,1.9,0.0,2
+North America,Water,2024,84,On Track,1.8,L/L product,1.8,0.0,1
+North America,Waste,2020,88,On Track,95.2,% diversion,94.0,1.3,2
+North America,Waste,2021,90,On Track,96.5,% diversion,95.0,1.6,2
+North America,Waste,2022,92,On Track,97.8,% diversion,96.0,1.9,2
+North America,Waste,2023,94,On Track,98.5,% diversion,97.0,1.5,2
+North America,Waste,2024,96,On Track,99.1,% diversion,98.0,1.1,1
+North America,Energy,2020,65,At Risk,42,% renewable,45,-6.7,3
+North America,Energy,2021,70,On Track,50,% renewable,50,0.0,3
+North America,Energy,2022,75,On Track,58,% renewable,55,5.5,2
+North America,Energy,2023,80,On Track,65,% renewable,60,8.3,2
+North America,Energy,2024,85,On Track,72,% renewable,70,2.9,2
+Europe,Climate,2020,78,On Track,1.8,MT CO2e/facility,2.2,-18.2,1
+Europe,Climate,2021,82,On Track,1.6,MT CO2e/facility,2.0,-20.0,1
+Europe,Climate,2022,85,On Track,1.4,MT CO2e/facility,1.8,-22.2,1
+Europe,Climate,2023,88,On Track,1.2,MT CO2e/facility,1.6,-25.0,2
+Europe,Climate,2024,92,On Track,1.0,MT CO2e/facility,1.4,-28.6,2
+Europe,Water,2020,75,On Track,2.0,L/L product,2.1,-4.8,2
+Europe,Water,2021,78,On Track,1.9,L/L product,2.0,-5.0,2
+Europe,Water,2022,82,On Track,1.8,L/L product,1.9,-5.3,1
+Europe,Water,2023,85,On Track,1.7,L/L product,1.8,-5.6,1
+Europe,Water,2024,88,On Track,1.6,L/L product,1.7,-5.9,2
+Europe,Waste,2020,92,On Track,97.5,% diversion,95.0,2.6,1
+Europe,Waste,2021,94,On Track,98.2,% diversion,96.0,2.3,1
+Europe,Waste,2022,96,On Track,98.8,% diversion,97.0,1.9,1
+Europe,Waste,2023,97,On Track,99.2,% diversion,98.0,1.2,1
+Europe,Waste,2024,98,On Track,99.7,% diversion,99.0,0.7,2
+Europe,Energy,2020,72,On Track,55,% renewable,52,5.8,2
+Europe,Energy,2021,78,On Track,62,% renewable,58,6.9,2
+Europe,Energy,2022,82,On Track,68,% renewable,64,6.3,1
+Europe,Energy,2023,86,On Track,75,% renewable,70,7.1,1
+Europe,Energy,2024,90,On Track,82,% renewable,76,7.9,1
+Asia Pacific,Climate,2020,62,At Risk,2.8,MT CO2e/facility,2.6,7.7,4
+Asia Pacific,Climate,2021,66,At Risk,2.5,MT CO2e/facility,2.4,4.2,4
+Asia Pacific,Climate,2022,70,On Track,2.2,MT CO2e/facility,2.2,0.0,4
+Asia Pacific,Climate,2023,74,On Track,2.0,MT CO2e/facility,2.0,0.0,4
+Asia Pacific,Climate,2024,78,On Track,1.8,MT CO2e/facility,1.8,0.0,4
+Asia Pacific,Water,2020,70,On Track,2.3,L/L product,2.4,-4.2,1
+Asia Pacific,Water,2021,74,On Track,2.1,L/L product,2.2,-4.5,1
+Asia Pacific,Water,2022,78,On Track,1.9,L/L product,2.0,-5.0,3
+Asia Pacific,Water,2023,82,On Track,1.8,L/L product,1.9,-5.3,3
+Asia Pacific,Water,2024,85,On Track,1.7,L/L product,1.8,-5.6,3
+Asia Pacific,Waste,2020,82,At Risk,92.0,% diversion,93.0,-1.1,4
+Asia Pacific,Waste,2021,85,On Track,94.5,% diversion,94.0,0.5,4
+Asia Pacific,Waste,2022,88,On Track,96.2,% diversion,95.0,1.3,4
+Asia Pacific,Waste,2023,91,On Track,97.5,% diversion,96.0,1.6,4
+Asia Pacific,Waste,2024,94,On Track,98.5,% diversion,97.0,1.5,4
+Asia Pacific,Energy,2020,55,At Risk,32,% renewable,38,-15.8,4
+Asia Pacific,Energy,2021,62,At Risk,40,% renewable,44,-9.1,4
+Asia Pacific,Energy,2022,68,On Track,48,% renewable,50,-4.0,4
+Asia Pacific,Energy,2023,74,On Track,56,% renewable,56,0.0,4
+Asia Pacific,Energy,2024,80,On Track,65,% renewable,64,1.6,3
+Latin America,Climate,2020,70,On Track,2.0,MT CO2e/facility,2.4,-16.7,3
+Latin America,Climate,2021,74,On Track,1.8,MT CO2e/facility,2.2,-18.2,3
+Latin America,Climate,2022,78,On Track,1.6,MT CO2e/facility,2.0,-20.0,3
+Latin America,Climate,2023,82,On Track,1.4,MT CO2e/facility,1.8,-22.2,3
+Latin America,Climate,2024,86,On Track,1.2,MT CO2e/facility,1.6,-25.0,3
+Latin America,Water,2020,65,At Risk,2.5,L/L product,2.3,8.7,4
+Latin America,Water,2021,70,On Track,2.3,L/L product,2.2,4.5,4
+Latin America,Water,2022,75,On Track,2.1,L/L product,2.1,0.0,4
+Latin America,Water,2023,80,On Track,1.9,L/L product,2.0,-5.0,4
+Latin America,Water,2024,84,On Track,1.8,L/L product,1.9,-5.3,4
+Latin America,Waste,2020,85,On Track,94.0,% diversion,93.0,1.1,3
+Latin America,Waste,2021,88,On Track,95.5,% diversion,94.0,1.6,3
+Latin America,Waste,2022,90,On Track,97.0,% diversion,95.0,2.1,3
+Latin America,Waste,2023,93,On Track,98.0,% diversion,96.0,2.1,3
+Latin America,Waste,2024,95,On Track,99.0,% diversion,97.0,2.1,3
+Latin America,Energy,2020,78,On Track,65,% renewable,55,18.2,1
+Latin America,Energy,2021,82,On Track,72,% renewable,60,20.0,1
+Latin America,Energy,2022,85,On Track,78,% renewable,65,20.0,1
+Latin America,Energy,2023,88,On Track,84,% renewable,72,16.7,1
+Latin America,Energy,2024,92,On Track,90,% renewable,78,15.4,1
